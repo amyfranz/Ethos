@@ -1,6 +1,4 @@
-const { default: ScrollNotOpen } = require("./ScrollNotOpen");
-
-const Scroll = ({}) => {
+const Scroll = () => {
     return ( 
         <div className="App">
             <div className="appBody">
