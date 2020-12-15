@@ -122,3 +122,23 @@ button {
 .workContainer{
   height: 15vw;
 }
+.unOpenScroll {
+  width: 100vw;
+  height: 133.333vw;
+}
+video {
+  object-fit: cover;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 133.333vw;
+}
+source{
+  object-fit: contain;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 133.333vw;
+}
