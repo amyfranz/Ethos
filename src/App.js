@@ -1,7 +1,7 @@
 import './App.css'
 import React from 'react'
 import Scroll from "./Scoll"
-import ScrollNotOpen from './ScrollNotOpen';
+// import ScrollNotOpen from './ScrollNotOpen';
 
 class App extends React.Component {
   constructor(props){
