@@ -12,7 +12,7 @@ class App extends React.Component {
 
 
   render(){
-    return this.state.scrollIsOpen? <Scroll setScrollFalse={this.setScrollFalse}/> : <ScrollNotOpen setScrollFalse={this.setScrollFalse} />
+    return <Scroll setScrollFalse={this.setScrollFalse}/>
   }
 
   setScrollFalse = () => {

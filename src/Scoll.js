@@ -2,9 +2,9 @@ const Scroll = () => {
     return ( 
         <div className="App">
             <div className="appBody">
-                <h1 className="scrollHeading">ETHOS</h1>
-                <div className="content">
-                    <p>
+                {/* <h1 className="scrollHeading">ETHOS</h1>
+                <div className="content css-typing"> */}
+                    {/* <p>
                     Dear "so and so",
                     </p>
                     <br></br>
@@ -14,7 +14,7 @@ const Scroll = () => {
                     functional, fun and easy to use works of art. We believe
                     this is the future of web-design.
                     </p>
-                    <h2>Our Team</h2>
+                    <h2 >Our Team</h2>
                     <div className="teamContainer">
                     <h3>Theo</h3>
                     <h3>Amy</h3>
@@ -45,8 +45,8 @@ const Scroll = () => {
                         </div>
                         <button>Submit</button>
                     </form>
-                    </div>
-                </div>
+                    </div> */}
+                {/* </div> */}
             </div>
         </div>
     )
